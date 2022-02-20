@@ -1,0 +1,15 @@
+D:\Mecid_Files\GitHub\Csharp_projects\voting_uygulamasi\bin\Debug\net6.0\voting_uygulamasi.exe
+D:\Mecid_Files\GitHub\Csharp_projects\voting_uygulamasi\bin\Debug\net6.0\voting_uygulamasi.deps.json
+D:\Mecid_Files\GitHub\Csharp_projects\voting_uygulamasi\bin\Debug\net6.0\voting_uygulamasi.runtimeconfig.json
+D:\Mecid_Files\GitHub\Csharp_projects\voting_uygulamasi\bin\Debug\net6.0\voting_uygulamasi.dll
+D:\Mecid_Files\GitHub\Csharp_projects\voting_uygulamasi\bin\Debug\net6.0\ref\voting_uygulamasi.dll
+D:\Mecid_Files\GitHub\Csharp_projects\voting_uygulamasi\bin\Debug\net6.0\voting_uygulamasi.pdb
+D:\Mecid_Files\GitHub\Csharp_projects\voting_uygulamasi\obj\Debug\net6.0\voting_uygulamasi.csproj.AssemblyReference.cache
+D:\Mecid_Files\GitHub\Csharp_projects\voting_uygulamasi\obj\Debug\net6.0\voting_uygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mecid_Files\GitHub\Csharp_projects\voting_uygulamasi\obj\Debug\net6.0\voting_uygulamasi.AssemblyInfoInputs.cache
+D:\Mecid_Files\GitHub\Csharp_projects\voting_uygulamasi\obj\Debug\net6.0\voting_uygulamasi.AssemblyInfo.cs
+D:\Mecid_Files\GitHub\Csharp_projects\voting_uygulamasi\obj\Debug\net6.0\voting_uygulamasi.csproj.CoreCompileInputs.cache
+D:\Mecid_Files\GitHub\Csharp_projects\voting_uygulamasi\obj\Debug\net6.0\voting_uygulamasi.dll
+D:\Mecid_Files\GitHub\Csharp_projects\voting_uygulamasi\obj\Debug\net6.0\ref\voting_uygulamasi.dll
+D:\Mecid_Files\GitHub\Csharp_projects\voting_uygulamasi\obj\Debug\net6.0\voting_uygulamasi.pdb
+D:\Mecid_Files\GitHub\Csharp_projects\voting_uygulamasi\obj\Debug\net6.0\voting_uygulamasi.genruntimeconfig.cache
