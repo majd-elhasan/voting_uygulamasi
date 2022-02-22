@@ -37,11 +37,11 @@ namespace Voting{
             kategori_sec(dict);
         }
         static void ders_kategorisi(Dictionary<string,int> dict){
-            Console.WriteLine("Aşağıdaki filmlerden birine oy veriniz.");
+            Console.WriteLine("Aşağıdaki derslerden birine oy veriniz.");
             kategori_sec(dict);
         }
         static void dil_kategorisi(Dictionary<string,int> dict){
-            Console.WriteLine("Aşağıdaki filmlerden birine oy veriniz.");
+            Console.WriteLine("Aşağıdaki dillerden birine oy veriniz.");
             kategori_sec(dict);
         }
         
